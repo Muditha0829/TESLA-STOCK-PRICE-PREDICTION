@@ -11,8 +11,8 @@ The primary goal of this project is to utilize different regression algorithms, 
 ### 💂 Group Details
 
 
+|  IT20233358--M.W. Diunugala
 |  IT20136710--K.M.K.R KARIYAPERUMA 
-|  IT20233358--M.W Dinugala
 |  IT20258030--H.P.M.N Gunawardhana 
 |  IT20144708--V.D Vidanapathirana 
 
